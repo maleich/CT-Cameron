@@ -1,0 +1,7 @@
+  tasks:
+  - init: |
+      pip3 install pytest
+      pip3 install PySimpleGUI
+      pip3 install pyglet
+      clear
+#    command: echo 'start script'
